@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ionelmc/python-redis-lock/commit/e448f12f49aa4a07885fe8cd02eae19a7e75fa51",
       "git:hexsha": "e448f12f49aa4a07885fe8cd02eae19a7e75fa51",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T19:42:07.757590+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ionelmc/python-redis-lock/commit/69d0e708c94fa5c74842c3cef22e0e09d644a3e8",
